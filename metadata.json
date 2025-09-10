@@ -1,0 +1,6 @@
+{
+  "name": "VelvetFrame",
+  "description": "An AI-powered application that transforms any uploaded photo into a high-quality, movie-level cinematic image, preserving subject identity.",
+  "author": "Manish",
+  "requestFramePermissions": []
+}
